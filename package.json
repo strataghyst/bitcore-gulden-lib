@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/strataghyst/bitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -85,7 +85,8 @@
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "lodash": "=3.10.1"
+    "lodash": "=3.10.1",
+    "scryptsy": "0.2.x"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
