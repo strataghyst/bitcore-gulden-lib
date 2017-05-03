@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "bitcore-gulden-lib",
+  "main": "./bitcore-gulden-lib.min.js",
   "version": "0.13.19",
   "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your Gulden project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "Gulden",
     "bitcore",
     "btc",
     "satoshi"
