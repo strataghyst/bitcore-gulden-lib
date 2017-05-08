@@ -89,7 +89,7 @@
     "scryptsy": "0.2.x"
   },
   "devDependencies": {
-    "bitcore-gulden-build": "bitpay/bitcore-gulden-build",
+    "bitcore-build": "bitpay/bitcore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
